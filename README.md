@@ -194,20 +194,4 @@ Then open your browser at: **http://127.0.0.1:7860**
 
 ---
 
-## Common Issues & Fixes
 
-| Issue | Fix |
-|-------|-----|
-| `ChromeDriver version mismatch` | Update Chrome or run `pip install --upgrade webdriver-manager` |
-| `tesseract is not installed` | Follow Step 4 and verify the path in the code |
-| `ollama: command not found` | Make sure Ollama is installed and added to PATH |
-| `model not found` | Run `ollama run gemma4:e2b` in CMD first |
-| `chroma_telecom_db not found` | Run Cells 0–6 in the notebook to build the index |
-| Empty responses from LLM | Make sure Ollama is running in the background |
-| Image upload returns no text | Make sure Arabic language pack is installed in Tesseract |
-
----
-
-## Customer Support
-
-For inquiries not answered by the chatbot, contact WE customer support: **16161**
