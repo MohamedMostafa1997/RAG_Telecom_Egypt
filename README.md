@@ -151,7 +151,6 @@ Run cells **in order from top to bottom**:
 | Cell 9 | File upload functions |
 | Cell 10 | Launch Gradio interface |
 
-> **Important:** Cells 3 and 6 only need to run **once** to build the index. On subsequent runs, skip directly to Cell 5 and load the existing ChromaDB.
 
 ### Option B — Standalone Gradio App
 
